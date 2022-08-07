@@ -15,6 +15,7 @@ I am fullstack developer from Ukraine 🇺🇦
 
 - Perfectionism
 - Extensive knowledge in eCommerce
+- Developer from 2014
 
 ## My fire stack 🔥
 
