@@ -21,7 +21,7 @@ I am fullstack developer from Ukraine 🇺🇦
 - Django
 - REST Framework
 - Celery
-- Vue, Nuxt
+- Vue.js, Nuxt.js
 - Tailwind
 - Vuetify
 - Docker
