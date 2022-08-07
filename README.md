@@ -28,6 +28,7 @@ I am fullstack developer from Ukraine 🇺🇦
 - Vuetify
 - Nginx
 - Docker
+- Puppeteer
 - Pyrogram
 
 ## Contact
