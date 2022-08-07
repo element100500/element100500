@@ -1,6 +1,6 @@
 ## Hello, world! 👋
 
-I am fullstack developer from Ukraine 🇺🇦
+I am fullstack developer from Ukraine 🦾🇺🇦
 
 ## What can I do?
 
