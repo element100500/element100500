@@ -27,7 +27,7 @@ I am fullstack developer from Ukraine 🇺🇦
 - Tailwind
 - Vuetify
 - Nginx
-- Docker
+- Docker, Docker Compose
 - Puppeteer
 - Pyrogram
 
