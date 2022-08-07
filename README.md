@@ -11,7 +11,7 @@ I am fullstack developer from Ukraine 🇺🇦
 - Bot
 - DB Design
 
-## Strong suits 🦾
+## Strong suits
 
 - Perfectionism
 - Extensive knowledge in eCommerce
@@ -27,7 +27,7 @@ I am fullstack developer from Ukraine 🇺🇦
 - Docker
 - Pyrogram
 
-## Contact me 💬
+## Contact
 - [Telegram (direct)](https://t.me/iml_user) (recommended)
 - [Telegram (public channel)](https://t.me/iml_ua)
 - [Twitter](https://twitter.com/iml_ua)
