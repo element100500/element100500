@@ -9,7 +9,8 @@ I am fullstack developer from Ukraine 🇺🇦
 - Console Script
 - Web Scrapper
 - Bot
-- DB Design
+- Reverse Engineering
+- Database Design
 
 ## Strong suits
 
