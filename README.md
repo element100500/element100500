@@ -26,6 +26,7 @@ I am fullstack developer from Ukraine 🇺🇦
 - Vue.js, Nuxt.js
 - Tailwind
 - Vuetify
+- Nginx
 - Docker
 - Pyrogram
 
